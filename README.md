@@ -29,5 +29,10 @@ Será utilizada LLM da api o google ai studio, devido a sua maior capacidade de 
 
 ## Guia de desenvolvimento e setup
 
+### documentações importantes 
+[Link do Figma projeto landpage](https://www.figma.com/design/7HsIXNsC1cgzRGn2UIdKlA/Huari-ia--Novo-?node-id=1-2&p=f&t=BopaZzYlran4nnOQ-0)
+
+
+
 
 
