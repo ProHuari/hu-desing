@@ -1,7 +1,7 @@
 # Huari AI
  Hub Unificado de Auditoria e Relatórios de Inteligência
 
-### visão geral
+## visão geral
 
 No cenário político contemporâneo, analistas, pesquisadores, assessores parlamentares, consultores eleitorais e estudantes enfrentam três desafios estruturais:
 sobrecarga e pulverização de informações: pesquisas eleitorais, relatórios de conjuntura, discursos, propostas e dados públicos estão dispersos, sem padronização e de difícil cruzamento. 
@@ -13,7 +13,21 @@ Para melhor informar nossos úsuarios, alguns termos podém váriar de plataform
 
 Gasto Suspeito: se trata de todo gasto superior a média comum, com fins não bens esclarecidos.
 
-### arquitetura e dados
+## arquitetura e dados
 
-Utilizaremos dados de 6 apis governamentais ofciais, sendo elas Controladoria-Geral da União (CGU), Senado Federal do Brasil:
+Utilizaremos dados de 6 apis governamentais ofciais, sendo elas Controladoria-Geral da União (CGU), Senado Federal do Brasil, Tribunal Superior Eleitoral (TSE),Receita Federal do Brasil, Câmara dos Deputados, esses dados são extraidos de forma semanais por meio de scripts em python de forma a cruzar sua atuação, seus projetos, sua presença e investigar qualquer aumento de patrimonio.
+
+## inteligencia artificial
+
+Será utilizada LLM da api o google ai studio, devido a sua maior capacidade de processamento de dados. como prompts principais será utilizados um para realizar uma biografia simples com formação, área de principais projetos, e informações básicas
+
+### pesos e métricas
+
+### mecanismos de logs e decisões 
+
+## telas individuais e funcionalidades
+
+## Guia de desenvolvimento e setup
+
+
 
