@@ -47,6 +47,9 @@ Sistema Operacional recomendado: Windows 11 e 10
 Ferramentas de ambiente: Java versão 25, html5, css3 , Mysql, springboot 4.1.1  
 
 dependencias: mysql driver, jpa, validation, lombok, spring web 
+## Segurança, LGPD e Compliance
+
+
 ### documentações importantes 
 [Link do Figma projeto landpage](https://www.figma.com/design/7HsIXNsC1cgzRGn2UIdKlA/Huari-ia--Novo-?node-id=1-2&p=f&t=BopaZzYlran4nnOQ-0)
 
