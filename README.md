@@ -27,6 +27,21 @@ Será utilizada LLM da api o google ai studio, devido a sua maior capacidade de 
 
 ## telas individuais e funcionalidades
 
+**admin** : 
+- gestão de cursos: essa página é dedicada ao controle dos cursos de toda a huari, gerenciando categoria de cursos, autores, podendo adicionar, modificar e excluir cursos, e gerenciar sua estruturas como aulas, materiais de apoio, módulos, questionários e a emissões de certificados 
+- usuario: tela feita para criação de usuarios, modificações necessarias como senhas nomes e históricos, exclusões, banimentos, gerenciamentos de pesquisas e matriculas 
+- dashboard: página para a monitoração de todos os leads e insights do site, como taxas de egajamento e rejeição, tempo na página, origem do trafego, visualizações , temas de pesquisa, reclamações, cursos vistos e certificados emitidos
+  
+**usuario:**
+- home: página inicial apresentando o projeto e com resumos como call to action para a paginas de cursos, parlamentares, e chat huari 
+- cursos home: página que mostra todos os cursos disponizveis em cards como imagem titulo e uma breve descrição 
+- cursos aulas: o curso propriamente dito, aonde o usuario ve a aula em video 
+- cursos questionario: questionario liberado após o final da aula ou do curso para que seja possivel emitir o certificado 
+- chat:  chat huari, aonde nossa ia responderia as questões levantadas pelo usuaario sobre politica
+- reclamações: pagina caso o usuario decida reclamar sobre qualquer erro do site ou de seus conteudos 
+- parlamentares: pagina que assim como o cursos home, o usuario poderá filtrar por cxargo e estado e assim mostra todos os politicos do mesmo estado, ou "casa"
+
+
 ## Guia de desenvolvimento e setup
 
 ### documentações importantes 
